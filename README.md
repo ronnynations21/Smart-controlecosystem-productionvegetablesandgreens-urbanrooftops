@@ -1,5 +1,6 @@
 # Smart-controlecosystem-productionvegetablesandgreens-urbanrooftops
 This application is for to implement and to have smart control for the ecological production of vegetals and green crop in urban rooftops or patios.
 The idea is to implement an Smart Ecosystem for to produce Foods using Aquaponic, Grennhouse and another productive areas applying the IoT Concept in Urban Smart MiniFarms. All your Ecological Foods in your Hand´s Palms. Resilent, Adaptable, Ecological, Modern, Intelligent and Practical System. All in One.
+For other hand we want to use gear the concept of "Circular Economy" or "Closed Cycle", all the wasted is recycled. The 3 "Rs": Reuse, Recycle and Reduce. 
 
 This application will be available soon!!
