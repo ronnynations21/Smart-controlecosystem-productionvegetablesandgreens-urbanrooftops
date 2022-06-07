@@ -12,6 +12,6 @@ The idea is to implement an Smart Ecosystem for to produce Foods using Aquaponic
 
 5.- Agriculture 4.0
 
-6.- Sustainable system. is a holystic system: Medio Ambiental, Economy and Social.
+6.- Sustainable system. is a holystic system: Environmental environment, Economy and Social responsability.
 
 This application will be available soon!!
